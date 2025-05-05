@@ -1,0 +1,24 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potatosim/file-manager.git"
+  },
+  "keywords": [
+    "file-manager"
+  ],
+  "author": "Hanna Yemelyanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potatosim/file-manager/issues"
+  },
+  "homepage": "https://github.com/potatosim/file-manager#readme"
+}
